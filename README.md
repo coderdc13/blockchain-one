@@ -165,4 +165,4 @@ Upon gaining access to the account of the first node through the keystore file p
 
 
 
-!(https://github.com/coderdc13/blockchain-one/blob/main/Screenshots/Screenshot%20(1710).png)
+!((1710).png)
