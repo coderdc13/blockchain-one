@@ -57,7 +57,7 @@ Path of the Secret Key File: node2\keystore\UTC--2020-11-02T14-56-25.696957100Z-
 
 Password: Player31
 
-Port: 30304 (This number was not used in the initial establishment of the blockchain…)
+Port: 30304 
 
 Enode from Node 1 (Directly Below):
 
