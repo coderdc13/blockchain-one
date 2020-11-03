@@ -307,7 +307,7 @@ The value for the nonce is noteworthy.
 ### Definitions
 
 
-wei/gwei - One (1) unit of Ethereum (ether, or ETH) is 1.0 ^ 10^18 wei (https://academy.binance.com/en/glossary/wei) 
+wei/gwei - One (1) unit of Ethereum (ether, or ETH) is 1.0 ^ 10^18 wei (https://academy.binance.com/en/glossary/wei).
 
 nonce - One may substitute this word with the phrase "number used once." The nonce is a number that is used to enhance security.
 
