@@ -254,11 +254,64 @@ Directly above shows the transfer of 3.9 ETH from node1 to node2.
 
 
 
+![text](/Screenshots/Screenshot%20(1723).png)
+
+
+
+
+
+
+
 Directly above shows the process of the 3.9 ETH transfer. This transaction was signed with the hash of 0xf86d8084ee6b280082520894465a15b479527bf991c4f5a651eab94cad15002088361f955640060000808203a8a08d15551dacadef7e5cd0ca98cb2f9382521aaa7e15f98a16690844afa252107aa0294567edfd2509d0446ba1b0fd3553d3e29b7961b0fb3d56e1e4a9a02102e53d. Also, the JavaScript object/Python dictionary was 
 
 { "value": "0x361f955640060000", "data": "0x", "to": "0x465a15b479527bf991c4f5a651eab94cad150020", "nonce": "0x0", "gasPrice": "0xee6b2800", "gasLimit": "0x5208", "chainId": 450}   
 
 
+This transaction was in the pending stage for over twenty (20) minutes.
+
+
+
+### Transfer of 14 ETH
+
+
+
+
+![text](/Screenshots/Screenshot%20(1725).png)
+
+
+
+
+
+
+Directly above shows the attempt to transfer 14 ETH from node1 to node2.
+
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(1727).png)
+
+
+
+Directly above shows the details of the transfer of 14 ETH from node1 to node2. The signature hash is 
+0xf86e01850df847580082520894465a15b479527bf991c4f5a651eab94cad15002088c249fdd327780000808203a8a028446781e4001e2fa5adf7bb0226a57968fc5c96368a5c05bd4006e3f7411c86a01d8bf731647bc7cbecb4f52aeec51f2067e0c50fd19abc4170cf72109ecea26b. Also, the JavaScript object/Python dictionary is 
+
+
+{ "value": "0xc249fdd327780000", "data": "0x", "to": "0x465a15b479527bf991c4f5a651eab94cad150020", "nonce": "0x1", "gasPrice": "0xdf8475800", "gasLimit": "0x5208", "chainId": 450}  
+
+The value for the nonce is noteworthy.
+
+
+
+### Definitions
+
+
+wei/gwei - One (1) unit of Ethereum (ether, or ETH) is 1.0 ^ 10^18 wei (https://academy.binance.com/en/glossary/wei) 
+
+nonce - One may substitute this word with the phrase "number used once." The nonce is a number that is used to enhance security.
+
+gas - This term describes "the cost necessary to perform a transaction on the network" (https://www.investopedia.com/terms/g/gas-ethereum.asp#:~:text=On%20the%20ethereum%20blockchain%2C%20gas,fractions%20of%20ether%20called%20gwei).
 
 
 
@@ -266,10 +319,28 @@ Directly above shows the process of the 3.9 ETH transfer. This transaction was s
 
 
 
+## Success
+
+Upon facing an extended period of pending transactions, both the node1 and node2 operations were stopped and restarted.
 
 
 
 
+![text](/Screenshots/Screenshot%20(1730).png)
 
+
+
+
+Directly above shows that the 3.9 ETH transfer succeeded.
+
+
+
+
+![text](/Screenshots/Screenshot%20(1729).png)
+
+
+
+
+Directly above shows that the 14 ETH transfer succeeded.
 
 
