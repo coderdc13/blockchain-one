@@ -164,5 +164,112 @@ Upon gaining access to the account of the first node through the keystore file p
 
 
 
+## Review of Blockchain Establishment
+
+
+
 
 ![text](/Screenshots/Screenshot%20(1710).png)
+
+
+
+
+
+
+Directly above shows the use of the addresses for the two nodes sealing and pre-funding. Please note also that the default time is 15 seconds and that the block is 450.
+
+
+
+
+![text](/Screenshots/Screenshot%20(1711).png)
+
+
+
+
+
+Directly above shows the export of the genesis configurations.
+
+
+
+
+![text](/Screenshots/Screenshot%20(1713).png)
+
+
+
+
+
+Directly above shows the initialization of the nodes.
+
+
+
+
+![text](/Screenshots/Screenshot%20(1715).png)
+
+
+
+Directly above shows the use of the key file to open the node account.
+
+
+
+### Transfer of 3.9 ETH
+
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(1717).png)
+
+
+
+
+
+Directly above shows the transfer of 3.9 ETH from node1 to node2.
+
+
+
+
+![text](/Screenshots/Screenshot%20(1718).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(1719).png)
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(1720).png)
+
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(1722).png)
+
+
+
+
+
+
+Directly above shows the process of the 3.9 ETH transfer. This transaction was signed with the hash of 0xf86d8084ee6b280082520894465a15b479527bf991c4f5a651eab94cad15002088361f955640060000808203a8a08d15551dacadef7e5cd0ca98cb2f9382521aaa7e15f98a16690844afa252107aa0294567edfd2509d0446ba1b0fd3553d3e29b7961b0fb3d56e1e4a9a02102e53d. Also, the JavaScript object/Python dictionary was 
+
+{ "value": "0x361f955640060000", "data": "0x", "to": "0x465a15b479527bf991c4f5a651eab94cad150020", "nonce": "0x0", "gasPrice": "0xee6b2800", "gasLimit": "0x5208", "chainId": 450}   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
