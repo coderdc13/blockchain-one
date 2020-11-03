@@ -1,18 +1,18 @@
-# blockchain-one
-Blockchain One Homework
+# Blockchain One Homework
 
+## Introduction
+
+This readme is designed to help the user to compose the blockchain and join the network. In addition, this readme provides lists of items, directions, and indications of completion. This readme also aims to describe the successful construction of the Proof of Authority (PoA) blockchain.
 
 Pre-Work Arrangement and Structure
 
 (Nota Bene: Vast Majority of Text (99.999999%) from Instructors GS, AN, and KS and from Tutor, Ms. LT)
 
-Introduction
 
-This readme is designed to help the user to compose the blockchain and join the network. In addition, this readme is divided into several sections. Each section has subsections; the subsections include lists of items, directions, and indications of completion.
 
-General Start
+## General Start
 
-Material
+### Material
 
 The user needs specific programs.
 
@@ -26,21 +26,21 @@ The user needs specific programs.
 
 -Anaconda (Optional)
 
-What to Do with Material
+### What to Do with Material
 
 The user must have Git Bash terminal (https://gitforwindows.org/). In addition, the user must have the MyCrypto application downloaded (https://download.mycrypto.com/). The user must have a version of Go Ethereum; the student author has the version labeled “Geth & Tools 1.9.23” (https://geth.ethereum.org/downloads/). It would help to have access to Microsoft Windows Explorer in order to view the structure of files and folders. The user could benefit from access to the Anaconda interface, leveraging the name of the anaconda network (possible name: “zbank_blockchain”).
 
 At least two action items help the process. One is to have the MyCrypto application open. Another action item is to have two (2) Git Bash terminals open with the ability to open either the puppeth or geth program (i.e., have two (2) terminals open at the Ethereum directory).
 
-Check
+### Check
 
 The icons for each of these programs appears with the successful download and loading.
 
  
 
-Data Specific for Network
+## Data Specific for Network
 
-Node 1 Information (Directly Below):
+### Node 1 Information (Directly Below)
 
 Public Address of the Key:   0x14E77e8dE86498E0fB5Ad53Bc0A1Bb2627C898a0
 
@@ -50,7 +50,7 @@ Password: Player13
 
 Port: 30303
 
-Node 2 Information (Directly Below):
+### Node 2 Information (Directly Below)
 
 Public Address of the Key:   0x465A15B479527Bf991c4f5a651eAb94caD150020
 
@@ -64,7 +64,7 @@ Enode from Node 1 (Directly Below):
 
 enode://86a7596ac42d38a47044843db9800f3c7837ecc1b842353b18921bc5dc53975cf8c20ea918d37eca1d68d5ee9142b09242403013c0a1de9182f9573383834158@127.0.0.1:30303
 
-General Clique Data
+### General Clique Data
 
 Chain ID: 450
 
@@ -74,7 +74,7 @@ Network Name: trial_five
 
  
 
-What to Do with Data Specific for Network
+## What to Do with Data Specific for Network
 
 (Nota Bene: Text below lifted almost exclusively from POA-Blockchain-guide.md)
 
@@ -132,7 +132,7 @@ With both nodes up and running, the blockchain can be added to MyCrypto for test
 
 Open the MyCrypto app, then click Change Network at the bottom left of the screen.
 
- 
+
 
  
 
