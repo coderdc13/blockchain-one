@@ -161,3 +161,8 @@ Upon gaining access to the account of the first node through the keystore file p
  
 
 (Nota Bene: Text above lifted almost exclusively from POA-Blockchain-guide.md)
+
+
+
+
+!(Screenshot%20(1710).png)
