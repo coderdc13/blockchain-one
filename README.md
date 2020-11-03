@@ -165,4 +165,4 @@ Upon gaining access to the account of the first node through the keystore file p
 
 
 
-!(main/Screenshots/Screenshot%20(1710).png)
+!(/Screenshots/Screenshot%20(1710).png)
