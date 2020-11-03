@@ -124,14 +124,38 @@ With “SEALER_TWO_ADDRESS” being the second public address for the second nod
 
 After entering these last two commands, the user should enter the unique passwords, even when not prompted (Player13 for node1 and for node2, Player31).
 
+### Explanation of Flags
+
+The commands and options for the ./geth and ./puppeth programs are at https://geth.ethereum.org/docs/interface/command-line-options. 
+
+The --allow-insecure-unlock flag provides the opportunity to unlock.
+The --bootnode flag allows for peer-to-peer networking.
+The --mine flag commmands the node to mine.
+The --minerthreads flag instructs the program how much effort to devote to the blockchain mining process.
+The --password flag allows use of the password file.
+The --rpc flag allows the node to participate in the network.
+
+
  
 
-With both nodes up and running, the blockchain can be added to MyCrypto for testing.
+With both nodes working, the blockchain can be added to MyCrypto for testing.
+
+### Check
+
+One can tell that the nodes are working by verifying transactions with the MyCrypto application.
 
  
 
-Open the MyCrypto app, then click Change Network at the bottom left of the screen.
+## MyCrypto
 
+The MyCrypto application is being leveraged to verify the functionality of the blockchain. This verification occurs through tracking a transaction. This verification requires a set of steps.
+
+The user should log into the MyCrypto application and then create a custom node. The node name, to reiterate, is trial_five. The network is custom. The currency is ETH. The Chain ID is 450. The URL is http://127.0.0.1:8545.
+
+
+Access to the initial node occurs through the selection of logging in through the Keystore File. Upon choosing the Keystore File access option, the user is then taken to a screen in which the user may enter the keystore file from the node1 directory along with the password. In this case the keystore file identification is node1\keystore\UTC--2020-11-02T14-54-47.164341500Z--14e77e8de86498e0fb5ad53bc0a1bb2627c898a0. The password for node1 is Player13.
+
+Upon gaining access to the account of the first node through the keystore file process, the user finds a large account full of practice Ethereum. The user may leverage this practice Ethereum and send some of the currency to the node2 address (0x465A15B479527Bf991c4f5a651eAb94caD150020). Sometimes, simply pasting the address is not good enough; the user may have to erase and retype the initial 0x in the address. Validation of the ./puppeth and ./geth work occurs with a successful transaction.
 
 
  
