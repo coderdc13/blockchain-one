@@ -127,12 +127,22 @@ After entering these last two commands, the user should enter the unique passwor
 
 The commands and options for the ./geth and ./puppeth programs are at https://geth.ethereum.org/docs/interface/command-line-options. 
 
-The --allow-insecure-unlock flag provides the opportunity to unlock.
-The --bootnode flag allows for peer-to-peer networking.
-The --mine flag commmands the node to mine.
-The --minerthreads flag instructs the program how much effort to devote to the blockchain mining process.
-The --password flag allows use of the password file.
-The --rpc flag allows the node to participate in the network.
+The --allow-insecure-unlock flag provides the opportunity to unlock. The site at https://geth.ethereum.org/docs/interface/command-line-options states that this command provides for "insecure account unlocking when account-related RPCs are exposed."
+
+
+The --bootnode flag allows for peer-to-peer networking. The site at https://geth.ethereum.org/docs/interface/command-line-options states that this command provides for communication with "comma separated enode URLs."
+
+
+The --mine flag commmands the node to mine. The site at https://geth.ethereum.org/docs/interface/command-line-options states that this command provides for communication with "comma separated enode URLs."
+
+
+The --minerthreads flag instructs the program how much effort to devote to the blockchain mining process. This command may be deprecated. The --miner.threads value (according to https://geth.ethereum.org/docs/interface/command-line-options) gives the "number of CPU threads to use for mining."
+
+
+The --password flag allows use of the password file. The website https://geth.ethereum.org/docs/interface/command-line-options states that this command allows for the "password file to use for non-interactive password input."
+
+
+The --rpc flag allows the node to participate in the network. The website https://geth.ethereum.org/docs/interface/command-line-options states that this command provides for use of "the HTTP-RPC server" and that this command is being deprecated.
 
 
  
