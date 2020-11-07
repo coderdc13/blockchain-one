@@ -119,7 +119,7 @@ For node2, which may be entered in a different Git Bash terminal as described ab
 
 With “SEALER_TWO_ADDRESS” being the second public address for the second node and with the “SEALER_ONE_ENODE_ADDRESS” as the address of the enode address for the first node, the command changes.
 
-./geth --datadir node2 --unlock "0x465A15B479527Bf991c4f5a651eAb94caD150020" --mine --port 30304 --bootnodes "enode://86a7596ac42d38a47044843db9800f3c7837ecc1b842353b18921bc5dc53975cf8c20ea918d37eca1d68d5ee9142b09242403013c0a1de9182f9573383834158@127.0.0.1:30303 --ipcdisable --allow-insecure-unlock
+./geth --datadir node2 --unlock "0x465A15B479527Bf991c4f5a651eAb94caD150020" --mine --port 30304 --bootnodes "enode://86a7596ac42d38a47044843db9800f3c7837ecc1b842353b18921bc5dc53975cf8c20ea918d37eca1d68d5ee9142b09242403013c0a1de9182f9573383834158@127.0.0.1:30303" --ipcdisable --allow-insecure-unlock
 
 After entering these last two commands, the user should enter the unique passwords, even when not prompted (Player13 for node1 and for node2, Player31).
 
