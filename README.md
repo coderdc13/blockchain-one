@@ -343,3 +343,12 @@ Directly above shows that the 3.9 ETH transfer succeeded.
 Directly above shows that the 14 ETH transfer succeeded.
 
 
+## Update on NOV 06 2020--Successful Preservation of Blockchain and Successful Additional Transactions
+
+The Instructor Corps very generously granted an extension on this assignment. As a result, the student author (Franklin Bueno) retested the blockchain with additional transaction. To his great pleasure and satisfaction, the student author found that his blockchain and private network (trial_five) are maintaining integrity and the ability to hold transactions. In particular, the student author managed to document the transactions and results for at least four (4) transactions for NOV 06 2020 to the node of the second address: 41 ETH at 1421 EST, 29 ETH at 1426 EST, 23 ETH at 1433 EST, 61 ETH at 1441 EST. These transactions are catalogued as the four (4) top transactions in the graphic (directly below).
+
+
+
+![text](/Screenshots/Screenshot%20(1826).png)
+
+
