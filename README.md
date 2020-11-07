@@ -349,6 +349,54 @@ The Instructor Corps very generously granted an extension on this assignment. As
 
 
 
+
+
 ![text](/Screenshots/Screenshot%20(1826).png)
+
+
+
+
+
+
+There are specific transaction (TX) hash values for each of the transactions: 0xedf6c36dcad82dd4ee071f11281c0269bbcbfc8373e1b69681aa87eb97bdeb38 for the 41 ETH transaction at 1421 EST, 0x20b1544104a19736f310856630359b66760645444740277e4a1541d891404420 for the 29 ETH transaction at 1426 EST, 0x7a337d62edcd4e7e5deab52186d3a9af0b713d71b2d5aa151747b645ef73b82c for the 23 ETH transaction at 1433 EST, 0x4813d408e133fd297bcae4c1445035d2f8b6e4146fc3dfd430f592165b4149b2 for the 61 ETH transaction at 1441 EST.
+ 
+The data for the 41 ETH transaction at 1421 EST is provided (directly below).
+
+
+
+
+![text](/Screenshots/Screenshot%20(1828).png)
+
+
+
+
+The data for the 29 ETH transaction at 1426 EST is provided (directly below).
+
+
+
+
+![text](/Screenshots/Screenshot%20(1829).png)
+
+
+
+
+The data for the 23 ETH transaction at 1433 EST is provided (directly below).
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(1830).png)
+
+
+
+
+
+The data for the 61 ETH transaction at 1441 EST is provided (directly below).
+
+
+
+
+![text](/Screenshots/Screenshot%20(1831).png)
 
 
